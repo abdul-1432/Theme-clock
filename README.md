@@ -1,5 +1,6 @@
 # Theme Clock - Black and White Mode
 
+![dark](https://github.com/abdul-1432/Theme-clock/assets/124916666/603e0b48-19a6-458b-bdf7-838b540bdb13)
 
 
 ![light](https://github.com/abdul-1432/Theme-clock/assets/124916666/639b2843-84bd-4b7c-9164-3f8bff77595f)

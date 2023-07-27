@@ -1,6 +1,9 @@
 # Theme Clock - Black and White Mode
 
-![Theme Clock Demo](demo.gif)
+
+
+![light](https://github.com/abdul-1432/Theme-clock/assets/124916666/639b2843-84bd-4b7c-9164-3f8bff77595f)
+
 
 The Theme Clock is a simple web application that showcases a clock with the ability to toggle between black and white mode upon clicking a button. The project is built using HTML, CSS, and JavaScript, making it easy to understand and customize.
 
